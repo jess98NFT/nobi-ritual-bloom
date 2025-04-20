@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				nobi: {
+					beige: '#F5E9E2',
+					'beige-light': '#FAF5F1',
+					rose: '#E8C4C4',
+					'rose-dark': '#DBA39A',
+					cream: '#FDFBF6',
+					gray: '#8E9196',
 				}
 			},
 			borderRadius: {
